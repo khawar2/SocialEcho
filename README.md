@@ -103,7 +103,7 @@ Before running the application, make sure you have the following installed:
 1. Clone the repository
 
 ```bash
-git clone https://github.com/nz-m/SocialEcho.git
+git clone https://github.com/khawar2/SocialEcho
 ```
 2. Go to the project directory and install dependencies for both the client and server
 
@@ -172,10 +172,4 @@ The admin dashboard can be accessed at the `/admin` route. Use the `admin_tool.s
 
 Moderators have specific email domain (`@mod.socialecho.com`). When registering with an email from this domain, the user is automatically assigned the moderator role. Moderators can be assigned to different communities from the admin dashboard.
 
-#### Demo
-https://youtu.be/Tmncayg7FeU
-
-## License
-
-This project is licensed under the [MIT License](https://github.com/nz-m/SocialEcho/blob/main/LICENSE).
 
